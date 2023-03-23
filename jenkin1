@@ -7,4 +7,5 @@ pipeline {
                 sh "${mavenCMD} clean install"
             }
         }
+    }
 }
