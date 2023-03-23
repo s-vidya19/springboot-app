@@ -1,0 +1,361 @@
+[33mcommit 711e0b6d60f02fabf318e053b8d38240a75e48bc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cvaaaa <118925407+Cvaaaa@users.noreply.github.com>
+Date:   Tue Feb 28 11:09:25 2023 +0530
+
+    updated image location
+
+[33mcommit 3d2880e73881163ef2dd5ec9b200fc28f17485c9[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Feb 1 20:26:45 2023 -0600
+
+    Create Jenkinsfile-K8S-jan23
+
+[33mcommit fdcbdeb75da6e34a70713b2656416991667489df[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Feb 1 20:20:01 2023 -0600
+
+    updated docker image for spring boot
+
+[33mcommit afcde12fe4d43b3a894ee21b664d3118228db45c[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Jan 14 13:43:54 2023 -0600
+
+    Update eks-deploy-k8s.yaml
+
+[33mcommit 1b3fb5f38ad1e74da4ab2e0513acb63aea619398[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Jan 5 19:26:31 2023 -0600
+
+    Update eks-deploy-k8s.yaml
+
+[33mcommit 307dbfebfc0a9ab9c874f5c6c265fc0fd6813964[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Nov 20 12:22:27 2022 -0600
+
+    fixed per my config
+
+[33mcommit a129b3578d00866261ec3da63f6e4cbfa7b85e95[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Nov 17 12:39:43 2022 -0600
+
+    Update index.html
+
+[33mcommit 0cbc1d24a29b029ef6779cd61f02ad524a709ba4[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Nov 17 12:26:03 2022 -0600
+
+    Update jenkins-aks-deploy-from-acr.yaml
+
+[33mcommit 95a14ba13adb5350121c575d0684a447697bb70c[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Nov 17 12:23:11 2022 -0600
+
+    Update jenkins-aks-deploy-from-acr.yaml
+
+[33mcommit 462324cf4ad733c2c1657693e1025338775c697c[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Nov 17 11:45:40 2022 -0600
+
+    Create jenkins-aks-deploy-from-acr.yaml
+
+[33mcommit f493dbf73fd94b5170f07d99256e74f8ea86c684[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 19:19:02 2022 -0600
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 7cbc54c471d76c151ce5057dbab7e206c2476b3d[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 19:02:50 2022 -0600
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 283879d1c6d721591c6d63a3651cf4fee2f95a42[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 18:55:35 2022 -0600
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 77aa8bfe65702e86dc0ea7f44061519560ff5d54[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 18:53:52 2022 -0600
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 811a08d6ee7280f1f87809717e7514365690a652[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 18:44:24 2022 -0600
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 68c8ac340011f480979cc21a9d868d511a117b18[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 18:41:17 2022 -0600
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit b50f741fe67211bdc6ec443ca05e2058fe3a7e34[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Nov 7 18:36:18 2022 -0600
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 46c10049358aa97586dedcb5b9e2a926dbbccd7f[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Nov 1 20:42:23 2022 -0500
+
+    modified per my ECR
+
+[33mcommit 9b8857d6b612ba0ae52a497db5bf658cfc9d250a[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Nov 1 19:56:19 2022 -0500
+
+    make code changes
+
+[33mcommit b96159948663653fcbf9d7f338c1797c0746c341[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Oct 22 12:41:51 2022 -0500
+
+    Delete Dockerfile1
+
+[33mcommit dbf7aef18bff0f5085fecc9cfa58a7c2b57fe1a3[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Oct 22 12:41:37 2022 -0500
+
+    Create Dockerfile1
+
+[33mcommit 69ad54bf5ef5f494b6e5a18fab00e334c14b2b81[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Sep 21 19:31:53 2022 -0500
+
+    fixed my ECR repo entries
+
+[33mcommit 3eadf998e7d9feacfabb1858beb589bd81167031[m
+Author: AK <your@email.com>
+Date:   Fri Sep 9 17:03:02 2022 -0500
+
+    this is my commit from VS Code
+
+[33mcommit f0d1c12dc3b51ebd1f046546d134754118ab7d03[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Sep 4 11:57:49 2022 -0500
+
+    Update index.html
+
+[33mcommit bba1a07661a6dc86a1f1e05da3382f26ac011f39[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Sep 4 11:56:53 2022 -0500
+
+    Update eks-deploy-from-ecr.yaml
+
+[33mcommit 2d0093509857459ff1f3ee4015ca89d2d914b9bd[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Sep 4 11:47:39 2022 -0500
+
+    changed the right region
+
+[33mcommit cefd60b12640652ba872244f761ab10fd162c1e7[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon Aug 22 16:29:18 2022 -0500
+
+    Delete azure-pipelines.yml
+
+[33mcommit 236a479ddce819aec93d456943a701628613cbdf[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Jul 31 14:19:14 2022 -0500
+
+    Delete deploy-loadbalancer.yml
+
+[33mcommit 1c487d7d5da08f73e7a64c4d864a28829a26b583[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Jul 30 13:28:58 2022 -0500
+
+    increased replicas to 5
+
+[33mcommit 9093b4b58705dcd8baf9ada811523237fd79407f[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Jul 30 12:52:04 2022 -0500
+
+    Update index.html
+
+[33mcommit c7c19939064372d107246b6bf3e683c845d50b69[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Jun 30 11:41:57 2022 -0500
+
+    added some change
+
+[33mcommit b887bde6ac248501f9a41baf3a38c37e960d002d[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Thu Jun 30 11:34:22 2022 -0500
+
+    made changes
+
+[33mcommit bdee6ab14923f5cc9e46f94a9c49267232f9f478[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Jun 29 17:06:58 2022 -0500
+
+    triggering build in Ado
+
+[33mcommit 8fc7b2f9501f2131443895cffaf7ca32d85cbe19[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Jun 29 17:04:31 2022 -0500
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 9f8c273fa852dba51cc8cdb980752f937e2ccd3f[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Jun 29 17:01:53 2022 -0500
+
+    triggering build in ADO
+
+[33mcommit 19a146b933f3ef570816816c20cf7fa7477d4954[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Jun 29 16:50:27 2022 -0500
+
+    added build id dynamically
+
+[33mcommit 24a9d8c77f3113b109588a83ced950a64b985eb8[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Jun 29 15:09:15 2022 -0500
+
+    Update aks-deploy-from-acr.yaml
+
+[33mcommit c098ddffc535eede6d2e4d6e4eeb87cc626f0f12[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Jun 29 13:16:10 2022 -0500
+
+    added acr repo name
+
+[33mcommit 154bfbd5c9d1034975bfe40f5496c23341008ac1[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Jun 28 19:10:35 2022 -0500
+
+    added K8S manifest file for AKS
+
+[33mcommit 07d97149ee4c0d0f9199dc94fee993a86c277e99[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Jun 28 19:08:38 2022 -0500
+
+    added k8s manifest for AKS deployment
+
+[33mcommit 58f71451e1b90cf702d28fd8cd5ffa6aa4082fe6[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Jun 28 18:54:48 2022 -0500
+
+    added maven build task
+
+[33mcommit 2e5d2dd66859b86456063804a71871fe92827b34[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Jun 28 18:50:49 2022 -0500
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 3258933dfac6f07108d6a8f1164ad881fb5ee4c1[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Jun 28 18:50:48 2022 -0500
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 0be5a9eb9f3874f5ca82a40833af02e91aae2d25[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Jun 28 18:50:48 2022 -0500
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 8dde15e776cb407b7251ebed5a601252fc8e19b2[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Mon May 16 20:01:13 2022 -0500
+
+    Update eks-deploy-k8s.yaml
+
+[33mcommit 564a2614c5c6b8f43bb5d6522e807cec0f5a9a1d[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Apr 17 12:20:55 2022 -0500
+
+    Modified jenkinsfile
+
+[33mcommit 8723bdbd9e8d68b8f5b141c7be0729faf1c8868d[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Mar 30 19:23:12 2022 -0500
+
+    changed the right image
+
+[33mcommit d3760ec40199d4bbacd330b5c8fd219095a4a8b5[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Mar 23 18:50:46 2022 -0500
+
+    scaling up to 3 pods
+
+[33mcommit 5663b1a59031b2053a904e32e15d103d649e16ab[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Feb 19 13:59:57 2022 -0600
+
+    added 4
+
+[33mcommit 274f00b981657b3ce5acc16e60c7733fd3a62c76[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sat Feb 19 13:50:26 2022 -0600
+
+    updated to right ecr repo in AWS
+
+[33mcommit 351ac465ac161ae64e4227008d143e268f42274d[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Feb 9 08:04:44 2022 -0600
+
+    fixed per new chnages
+
+[33mcommit a737736c1f0e92d321609d1f817d44bf66bd75e7[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Feb 9 07:59:14 2022 -0600
+
+    Update eks-deploy-from-ecr.yaml
+
+[33mcommit 684da6eb6b937c8e4fe830c3ee16ba3c11c5c954[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Wed Feb 9 07:57:10 2022 -0600
+
+    mapping the port correctly
+
+[33mcommit f197c11df8cf086d1cac6af19e45e3da28f61e1a[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Feb 8 21:20:20 2022 -0600
+
+    changed port no mapping
+
+[33mcommit da840c467d0865a1634f3d4901aa1f734caf38fa[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Feb 8 07:06:36 2022 -0600
+
+    changed the spec info
+
+[33mcommit 3833aab03eb60726d27370767a57cd16e4107d85[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Feb 8 06:23:55 2022 -0600
+
+    exposing container port on 80
+
+[33mcommit 35d91d170d0479be430c6bf48ea173720e86e5f4[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Tue Feb 8 06:23:30 2022 -0600
+
+    making service available on port 80
+
+[33mcommit 11b137d59346108717eb67c705b24b9fe4a46fbf[m
+Author: akannan1087 <15877864+akannan1087@users.noreply.github.com>
+Date:   Sun Jan 23 23:01:08 2022 -0600
+
+    Create eks-deploy-from-ecr.yaml
+
+[33mcommit 5572323702e30dcf6c084f08d26e498ebf747c5c[m
+Author: Ubuntu <ubuntu@ip-172-31-22-237.us-east-2.compute.internal>
+Date:   Mon Jan 24 04:53:25 2022 +0000
+
+    setting up springboot app
