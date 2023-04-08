@@ -3,6 +3,9 @@ pipeline {
     tools {
         maven 'maven'
     }
+    environment {
+        registry = "public.ecr.aws/a9o3g1g2/petclinic"
+    }
     stages {
         stage('git checkout') {
             steps {
