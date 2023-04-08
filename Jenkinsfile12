@@ -12,8 +12,6 @@ pipeline {
                 url: 'https://github.com/Cvaaaa/springboot-app.git']])
             }
         }
-    }
-    stages {
         stage('unit test') {
             steps {
                 sh 'mvn test'
