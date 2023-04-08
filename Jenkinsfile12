@@ -1,0 +1,13 @@
+pipeline {
+    agent any
+    stages {
+        stage('git checkout') {
+            steps {
+                checkout scmGit(branches: [[name: '*/main']],
+                extensions: [],
+                userRemoteConfigs: [[credentialsId: 'GIT_CRED_siv',
+                url: 'https://github.com/Cvaaaa/springboot-app.git']])
+            }
+        }
+    }
+}
