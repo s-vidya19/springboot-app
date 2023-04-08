@@ -17,5 +17,10 @@ pipeline {
                 sh 'mvn test'
             }
         }
+        stage {
+            steps {
+                sh 'clean test package'
+            }
+        }
     }
 }
