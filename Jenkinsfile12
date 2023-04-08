@@ -19,7 +19,7 @@ pipeline {
         }
         stage('build test') {
             steps {
-                sh 'clean test package'
+                sh 'mvn clean test package'
             }
         }
     }
