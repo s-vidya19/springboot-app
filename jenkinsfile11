@@ -17,6 +17,13 @@ pipeline {
                 sh "mvn clean install package"
             }
         }
+        stage ('quality check') {
+            steps {
+                script {
+                    withSonarQubeEnv(credentialsId: 'SONAR_CRED') {
+                        sh 'mvn sonar:sonar'
+            }
+        }
         
     }
 }
