@@ -22,6 +22,8 @@ pipeline {
                 script {
                     withSonarQubeEnv(credentialsId: 'SONAR_CRED') {
                         sh 'mvn sonar:sonar'
+                    }
+                }
             }
         }
         
